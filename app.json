@@ -12,7 +12,7 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. You can set `all | . | .!*`",
-      "value": "."
+      "value": ","
     },
     "AUTO_REACT": {
       "description": "Set true to auto-react to messages.",
@@ -31,7 +31,7 @@
     },
     "CHATBOT": {
       "description": "Set to true if you want your bot to autoreply messages.",
-      "value": "false",
+      "value": "true",
       "required": false
     },
     "AUTO_READ_MESSAGES": {
@@ -48,7 +48,7 @@
       "value": "public"
     },
     "AUTHOR": {
-      "description": "Put Sticker Pack Author_Name.",
+      "description": "Geniuz.",
       "value": "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋",
       "required": false
     }
